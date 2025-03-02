@@ -1,4 +1,4 @@
-# 🎬 Book My Movie
+# 🎬 Search My Movie
 
 A movie listing and searching web application built using **HTML, CSS, JavaScript, Tailwind CSS**, and Firebase Realtime Database. Users can search, filter, and sort movies by rating, release date, or genre.
 
